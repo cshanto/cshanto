@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cshanto
-- 👀 I’m interested in web development/design...
-- 🌱 I’m currently learning html,css and javascript...
-- 💞️ I’m looking to collaborate on web development so that I can learn more real world skills.
+- 👀 I’m interested in writing test script using java and selenium
+- 🌱 I have basic knowledge of html,css and javascript, intermediate knowledge of SQL, java, and python.
+- 💞️ I’m looking to boost my skills and strengthen my portfolio 
 - 📫 reach me via email: cshanto39@gmail.com
 
 <!---
