@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on infotainment QA Engineer <br>👯 I’m looking to collaborate on Data Analytics and ETL<br>🌱 I’m currently learning Python, SQL, RDBMS, and Data Analytics and BI tools<br>💬 Ask me about Data Analytics <br>⚡ Fun fact : 🤔
+🔭 I’m currently working as infotainment QA Engineer <br>👯 I’m looking to collaborate on Data Analytics and ETL<br>🌱 I’m currently learning Python, SQL, RDBMS, and Data Analytics and BI tools<br>💬 Ask me about Data Analytics <br>⚡ Fun fact : 🤔
 
 
 # 💻 Tech Stack:
